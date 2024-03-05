@@ -1,1 +1,6 @@
-Oi, tudo bem?
+git init -> cria repositório local
+git remote add origin "link do github" -> link do remetente
+git add . -> junta arquivos da pasta para o staging area 
+git status ->  confirma se há alguma pendência pro staging area
+git commit -m "descrição do commit" -> nome da atualização do commit
+git push origin main -> comitar/enviar pro github
