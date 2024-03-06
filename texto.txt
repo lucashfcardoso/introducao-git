@@ -7,4 +7,6 @@ git push origin main -> comitar/enviar pro github
 
 - agora estamos na brench nova
 
-git checkout -b dev -> cria nova brench de desenvolvimento
+git checkout -b dev -> cria nova branch de desenvolvimento (-b cria nova branch)
+git checkout main -> muda para branch main
+get checkout dev -> muda para branch dev
